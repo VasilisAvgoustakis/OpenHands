@@ -184,6 +184,8 @@ cython_debug/
 .roo/rules
 .cline/rules
 .windsurf/rules
+.repomix
+repomix-output.txt
 
 # evaluation
 evaluation/evaluation_outputs
